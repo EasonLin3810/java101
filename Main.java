@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-       System.out.println("im a nigger"); 
+        int x = 6;
+        System.out.println(x + 4);
+		System.out.println(x);
+		System.out.println(x % 2 == 0);
     }
 }
-git add .
-git commit -m "added readme and main file"
-git push

@@ -1,9 +1,9 @@
+import java.util.Scanner;
 public class Exp{
 	public static void main(String []arg){
-	String z = "deez";
-	String y = "Nuts";
-	String temp = z;
 	
+ Scanner scanner = new Scanner (System.in);
+	System.out.println("What is your name?");
 
 		
 	}
